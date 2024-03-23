@@ -16,6 +16,7 @@ public class main
             System.out.println("9");
         }
         else if(b>60 && c>100)
+        
         {
             System.out.println("8");
         }
@@ -28,6 +29,7 @@ public class main
             System.out.println("6");
         }
         else
+        
         {
             System.out.println("5");
         }
